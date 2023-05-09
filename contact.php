@@ -58,9 +58,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>Odisha </p>
 						</div>
 						<div class="address-left">
-							<p>Tel:1115550001</p>
-							<p>Fax:190-4509-494</p>
-							<p><a href="mailto:info@example.com">mail@example.com</a></p>
+							<p>Tel:+91 77519 52696</p>
+							<p><a href="inquiry@newodisha.org">inquiry@newodisha.org</a></p>
 						</div>
 						<div class="clearfix"> </div>
 				      </div>
