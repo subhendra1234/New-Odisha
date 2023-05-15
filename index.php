@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -11,10 +7,10 @@
 <meta name="keywords" content="Generous Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="../css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
-<link href="css/style.css" rel='stylesheet' type='text/css' />	
-<script src="js/jquery.min.js"> </script>
+<link href="../css/style.css" rel='stylesheet' type='text/css' />
+<script src="../js/jquery.min.js"> </script>
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
 
@@ -22,12 +18,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 
-
-<?php include"header.php" ?>
+<?php include "app/views/header.php" ?>
 			<!-- script-for-menu -->
-
-
-
 
 				<script>
 					$(document).ready(function(){
@@ -65,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</ul>
 					</div>
 					<!--- banner Slider starts Here --->
-	  			<script src="js/responsiveslides.min.js"></script>
+	  			<script src="../js/responsiveslides.min.js"></script>
 			 <script>
 			    // You can also use "$(window).load(function() {"
 			    $(function () {
@@ -106,7 +98,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		   <h3 class="tittle">Our Services</h3>
 			<div class="col-md-5 serve-info">
 				<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Cras porttitor imperdiet volutpat nulla malesuada lectus eros ut convallis felis consectetur ut </h5>
-					<img src="images/s-gal.jpg" alt="" />
+					<img src="../images/s-gal.jpg" alt="" />
 				<div class="see-button">
 					<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal serve-button" href="#" role="button">Read More</a>
 				</div>
@@ -115,14 +107,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="serve-grids-top">
 					<div class="col-md-6 service-box">
 						<figure class="icon">
-							<img src="images/s1.png" alt="" />
+							<img src="../images/s1.png" alt="" />
 						</figure>
 						<h5>Kindness</h5>
 						<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 					</div>
 					<div class="col-md-6 service-box">
 						<figure class="icon">
-							<img src="images/s2.png" alt="" />
+							<img src="../images/s2.png" alt="" />
 						</figure>
 						<h5>Humanity</h5>
 						<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
@@ -132,14 +124,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="serve-grids-top">
 					<div class="col-md-6 service-box">
 						<figure class="icon">
-							<img src="images/s4.png" alt="" />
+							<img src="../images/s4.png" alt="" />
 						</figure>
 						<h5>Save Food</h5>
 						<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 					</div>
 					<div class="col-md-6 service-box">
 						<figure class="icon">
-							<img src="images/s3.png" alt="" />
+							<img src="../images/s3.png" alt="" />
 						</figure>
 						<h5>Save Money</h5>
 						<p>Sed ut perspiciis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
@@ -163,7 +155,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-5 cam-top-text">
 				   <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v2.jpg" alt="img07"/>
+							<img src="../images/v2.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#">Killzone: Shadow Fall for PlayStation 4 Reviews</a>
@@ -173,7 +165,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   </div>
 				    <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v1.jpg" alt="img07"/>
+							<img src="../images/v1.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#"> Spiderman 2 Full Version PC Game</a>
@@ -183,7 +175,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   </div>
 				    <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v3.jpg" alt="img07"/>
+							<img src="../images/v3.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#">Killzone: Shadow Fall for PlayStation 4 Reviews</a>
@@ -202,7 +194,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3 class="tittle">Our News</h3>
 			 <div class="news-article">
 			  <div class="col-md-6 article-post">
-				<a href="single.html" ><img src="images/n1.jpg" alt="img07"/></a>
+				<a href="single.html" ><img src="../images/n1.jpg" alt="img07"/></a>
 				<div class="col-md-3 post-meta">
 					<div class="meta-icon">
 						<div class="pic">
@@ -227,7 +219,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="clearfix"> </div>
 				</div>	
 				 <div class="col-md-6 article-post">
-				<a href="single.html" ><img src="images/n2.jpg" alt="img07"/></a>
+				<a href="single.html" ><img src="../images/n2.jpg" alt="img07"/></a>
 				<div class="col-md-3 post-meta">
 					<div class="meta-icon">
 						<div class="pic">
@@ -264,7 +256,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c2.jpg" alt=""/>
+									<img src="../images/c2.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Childrens</h4>
@@ -276,7 +268,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c1.jpg" alt=""/>
+									<img src="../images/c1.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Humanity</h4>
@@ -288,7 +280,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c2.jpg" alt=""/>
+									<img src="../images/c2.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Childrens</h4>
@@ -302,7 +294,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!-- banner-text Slider starts Here -->
-		<script src="js/responsiveslides.min.js"></script>
+		<script src="../js/responsiveslides.min.js"></script>
 		<script>
 			// You can also use "$(window).load(function() {"
 				$(function () {
@@ -324,7 +316,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</script>
 
 	<!--footer-->
-<?php include"footer.php" ?>
+<?php include "app/views/footer.php" ?>
 		<!--footer-->
 	</div>
 </div>

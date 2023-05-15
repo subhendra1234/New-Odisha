@@ -1,4 +1,4 @@
-
+<!---->
 	<!--Header-->
 	<div id="home" class="header">
 		<div class="header-top">
@@ -20,7 +20,7 @@
 				<span class="menu"></span>
 				<div class="top-menu">
 				<ul class="cl-effect-16">
-						<li><a class="active" href="index.php" data-hover="HOME">Home</a></li> 
+						<li><a class="active" href="index.php" data-hover="HOME">Home</a></li>
 						<li><a href="about.php" data-hover="About">About US</a></li>
 						<li><a href="typography.php" data-hover="Aim & Objective">Aim & Objective </a></li>
 						<li><a href="gallery.php" data-hover="Photo Gallery">Photo Gallery</a></li>
