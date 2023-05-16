@@ -1,14 +1,12 @@
-
 {
 	"name": "new_odisha",
 	"private": true,
-
 	"scripts": {
-    "scss": "node-sass --output-style compressed -o css src/scss",
-    "serve": "browser-sync start --server --files 'css/*.css, **/*.html'"
+		"scss": "node-sass --output-style compressed -o css src/scss",
+		"serve": "browser-sync start --server --files 'css/*.css, **/*.html'"
 	},
-
-  "dependencies": {
-    "node-sass": "^8.0.0"
-  }
+	"dependencies": {
+		"bootstrap": "^5.3.0-alpha3",
+		"node-sass": "^8.0.0"
+	}
 }
