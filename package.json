@@ -1,0 +1,14 @@
+
+{
+	"name": "new_odisha",
+	"private": true,
+
+	"scripts": {
+    "scss": "node-sass --output-style compressed -o css src/scss",
+    "serve": "browser-sync start --server --files 'css/*.css, **/*.html'"
+	},
+
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
