@@ -34,7 +34,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li><a href="#" class="gg"> </a></li>
 						<li><a href="#" class="twitter"> </a></li>
 						<li><a href="#" class="p"> </a></li>
-						<li><a href="donation.html" class="donate">Donate Now<i class="glyphicon glyphicon-heart"></i></a></li>
+						<li><a href="app/ views/donation.html" class="donate">Donate Now<i class="glyphicon glyphicon-heart"></i></a></li>
 					</ul>
 
 				</div>
@@ -43,8 +43,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="top-menu">
 				<ul class="cl-effect-16">
 						<li><a class="active" href="index.html" data-hover="HOME">Home</a></li> 
-						<li><a href="about.html" data-hover="About">About US</a></li>
-						<li><a href="typography.html" data-hover="SERVICES">Aim & Objective </a></li>
+						<li><a href="app/views/about.html" data-hover="About">About US</a></li>
+						<li><a href="app/ views/typography.html" data-hover="SERVICES">Aim & Objective </a></li>
 						<li><a href="gallery.html" data-hover="Gallery">Photo Gallery</a></li>
 						<li><a href="blog.html" data-hover="BLOG">Achivement</a></li>
 						<li><a href="contact.html" data-hover="CONTACT">Contact</a></li>

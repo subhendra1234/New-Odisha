@@ -17,7 +17,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 	<!--start-home-->
-	<?php include"header.php" ?>
+	<?php include "app/views/header.php" ?>
 			<!-- script for menu -->
 			</div>
 		</div>
@@ -186,7 +186,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</script>
 
 	<!--footer-->
-			<?php include"footer.php" ?>
+			<?php include "app/views/footer.php" ?>
 		<!--footer-->
 	</div>
 </div>
