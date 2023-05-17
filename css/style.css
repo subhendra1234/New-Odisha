@@ -78,7 +78,8 @@ ul.f-icons li a.p{
     background:#43C6DB;
     font-size:0.85em;
     font-weight:400;
-    color:#fff;
+    color:black;
+    border-radius: 13px;
     text-transform:uppercase;
     transition:0.5s all;
     -webkit-transition:0.5s all;
@@ -87,7 +88,8 @@ ul.f-icons li a.p{
     -ms-transition:0.5s all
 }
 a.donate:hover{
-    background:#023047
+    background:#023047;
+    color:#fff;
 }
 a.donate i{
     margin:0 0.89em
