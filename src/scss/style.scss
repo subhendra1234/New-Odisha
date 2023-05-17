@@ -81,7 +81,7 @@ ul.f-icons  li a.p{
 }
 .do-button a{
   padding: 0.8em 1.2em;
-  background:#d9443f;
+  background:#808080;
   font-size: 0.85em;
   font-weight: 400;
   color: #fff;
@@ -93,7 +93,7 @@ ul.f-icons  li a.p{
 -ms-transition:0.5s all;
 }
 a.donate:hover{
-background:#53d0c6;
+background:#808080;
 }
 a.donate i {
   margin: 0 0.89em;
@@ -116,7 +116,7 @@ a.donate i {
 	text-shadow: 0 0 1px rgba(111,134,134,0.3);
 }
 .cl-effect-16 a::before {
-	color:#af0d1d;
+	color:#808080;
 	content: attr(data-hover);
 	position: absolute;
 	opacity: 0;

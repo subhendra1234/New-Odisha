@@ -37,7 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>Bulum iaculis lacinia est. Proin dictum elemntum velit. Fusce euismod cons equat ante. Lorem ipsum dmeconsectetuer adipiscing elit. ellentesque sed dolor. Aliquam congue fermentum nisl. Mauris accumsan nulla vel diam. Sed in lacus ut enim adipiscing aliquet. Nulla vene natis. In pede mi aliquet sit amet euismod in auctor ut ligula. </p>
 					</div>
 					<div class="col-md-5 about-top-left">
-						<img src="images/ab.jpg" class="img-responsive" alt=""/>
+						<img src="/images/ab.jpg" class="img-responsive" alt=""/>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -50,22 +50,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="main">
 
 				<div class="col-md-3 view fifth-effect">
-					 <a href="#" title="Full Image"><img src="images/t1.jpg" /></a>
+					 <a href="#" title="Full Image"><img src="/images/t1.jpg" /></a>
 					 <div class="mask"></div>
 				</div>     
 				
 				<div class="col-md-3 view fifth-effect">
-					 <a href="#" title="Full Image"><img src="images/t6.jpg" /></a>
+					 <a href="#" title="Full Image"><img src="/images/t6.jpg" /></a>
 					 <div class="mask"></div>
 				</div>     
 				
 				<div class="col-md-3  view fifth-effect">
-					 <a href="#" title="Full Image"><img src="images/t5.jpg" /></a>
+					 <a href="#" title="Full Image"><img src="/images/t5.jpg" /></a>
 					 <div class="mask"></div>
 				</div>     
 				
 				<div class="col-md-3 view fifth-effect">
-					 <a href="#" title="Full Image"><img src="images/t4.jpg" /></a>
+					 <a href="#" title="Full Image"><img src="/images/t4.jpg" /></a>
 					 <div class="mask"></div>
 				</div>                
 				<div class="clearfix"></div>
@@ -85,7 +85,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-5 cam-top-text">
 				   <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v2.jpg" alt="img07"/>
+							<img src="/images/v2.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#">Killzone: Shadow Fall for PlayStation 4 Reviews</a>
@@ -95,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   </div>
 				    <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v1.jpg" alt="img07"/>
+							<img src="/images/v1.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#"> Spiderman 2 Full Version PC Game</a>
@@ -105,7 +105,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   </div>
 				    <div class="sub-cam-top">
 				       <div class="col-md-4 sub-img">
-							<img src="images/v3.jpg" alt="img07"/>
+							<img src="/images/v3.jpg" alt="img07"/>
 					   </div>
 					   <div class="col-md-8 sub-text">
 					   		 <a href="#">Killzone: Shadow Fall for PlayStation 4 Reviews</a>
@@ -126,7 +126,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c2.jpg" alt=""/>
+									<img src="/images/c2.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Childrens</h4>
@@ -138,7 +138,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c1.jpg" alt=""/>
+									<img src="/images/c1.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Humanity</h4>
@@ -150,7 +150,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<li>
 							<div class="testi-text">
 								<div class="col-md-3 testi-img">
-									<img src="images/c2.jpg" alt=""/>
+									<img src="/images/c2.jpg" alt=""/>
 								</div>
 								<div class="col-md-9 tt-text">
 									<h4>Save Childrens</h4>
