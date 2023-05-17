@@ -75,7 +75,7 @@ ul.f-icons li a.p{
 }
 .do-button a{
     padding:0.8em 1.2em;
-    background:#808080;
+    background:#43C6DB;
     font-size:0.85em;
     font-weight:400;
     color:#fff;
@@ -87,7 +87,7 @@ ul.f-icons li a.p{
     -ms-transition:0.5s all
 }
 a.donate:hover{
-    background:#53d0c6
+    background:#023047
 }
 a.donate i{
     margin:0 0.89em
@@ -146,7 +146,7 @@ nav a:hover,nav a:focus{
 .top-menu ul li a{
     text-decoration:none;
     color:black;
-    font-size:0.98em;
+    font-size:20px;
     font-weight:400;
     text-transform:uppercase;
     padding:0;
@@ -154,7 +154,7 @@ nav a:hover,nav a:focus{
     margin:0 auto
 }
 .top-menu ul li a:hover,.top-menu ul li a.active{
-    color:#808080;
+    color:#219ebc;
 }
 @media (max-width: 640px){
     .logo{
@@ -2150,7 +2150,7 @@ h6.modal-subtitle{
     }
     .do-button a{
         padding:0.6em 1.2em;
-        background:#af0d1d;
+        background:#43C6DB;
         font-size:0.8em
     }
     .header-top{
