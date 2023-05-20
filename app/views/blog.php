@@ -22,7 +22,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 	<!--start-home-->
-	<?php include "app/views/header.php" ?>
+	<?php include 'header.php' ?>
 			<!-- script for menu -->
 			</div>
 		</div>

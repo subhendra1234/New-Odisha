@@ -60,18 +60,18 @@ ul.f-icons li{
     display:inline
 }
 ul.f-icons li a.facebook,.ul.f-iconsli a.p,ul.f-icons li a.twitter{
-    background:url(assets/images/icons.png) no-repeat -4px 0px;
+    background:url(../images/icons.png) no-repeat -4px 0px;
     height:40px;
     width:40px
 }
 ul.f-icons li a.gg{
-    background:url(assets/images/icons.png) no-repeat -44px 0px
+    background:url(../images/icons.png) no-repeat -44px 0px
 }
 ul.f-icons li a.twitter{
-    background:url(assets/images/icons.png) no-repeat -84px 0px
+    background:url(../images/icons.png) no-repeat -84px 0px
 }
 ul.f-icons li a.p{
-    background:url(assets/images/icons.png) no-repeat -124px 0px
+    background:url(../images/icons.png) no-repeat -124px 0px
 }
 .do-button a{
     padding:0.8em 1.2em;
@@ -172,7 +172,7 @@ nav a:hover,nav a:focus{
         display:block;
         width:35px;
         height:35px;
-        background:url(assets/images/nav.png) no-repeat 0px 0px;
+        background:url(../images/nav.png) no-repeat 0px 0px;
         display:block;
         position:absolute;
         right:127px;
@@ -206,7 +206,7 @@ nav a:hover,nav a:focus{
     position:relative
 }
 .banner{
-    background:url(assets/images/g5.jpg) no-repeat center top;
+    background:url(../images/banner2.jpg) no-repeat center top;
     background-size:cover;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -282,7 +282,7 @@ nav a:hover,nav a:focus{
     text-decoration:none;
     height:80px;
     width:40px;
-    background:transparent url("assets/images/arrows.png") no-repeat left top;
+    background:transparent url("../images/arrows.png") no-repeat left top;
     margin-top:4%;
     display:block
 }
@@ -802,19 +802,19 @@ ul.ad-info li a{
 i.admin{
     width:20px;
     height:20px;
-    background:url(assets/images/img-sprite.png) no-repeat 5px 1px;
+    background:url(../images/img-sprite.png) no-repeat 5px 1px;
     float:left
 }
 i.date{
     width:20px;
     height:20px;
-    background:url(assets/images/img-sprite.png) no-repeat -23px 2px;
+    background:url(../images/img-sprite.png) no-repeat -23px 2px;
     float:left
 }
 i.comment{
     width:20px;
     height:20px;
-    background:url(assets/images/img-sprite.png) no-repeat -59px 2px;
+    background:url(../images/img-sprite.png) no-repeat -59px 2px;
     float:left
 }
 .leave h4,h4.tz-title-4.tzcolor-blue{
@@ -1021,7 +1021,7 @@ h5.m_26 a:hover{
     color:#c3a000
 }
 .md-col-in ul li i{
-    background:url(assets/images/img-sprite.png) no-repeat -497px -20px;
+    background:url(../images/img-sprite.png) no-repeat -497px -20px;
     width:8px;
     height:8px;
     display:inline-block;
@@ -1075,7 +1075,7 @@ h3.tittle.two{
     width:100%
 }
 .banner.two{
-    background:url(assets/images/banner-two.jpg) no-repeat center top;
+    background:url(../images/banner-two.jpg) no-repeat center top;
     background-size:cover;
     -webkit-background-size:cover;
     -moz-background-size:cover;
@@ -1139,7 +1139,7 @@ h3.tittle.two{
     position:relative
 }
 .view a.info{
-    background:url(assets/images/link.png) center no-repeat;
+    background:url(images/link.png) center no-repeat;
     display:inline-block;
     text-decoration:none;
     padding:0;
@@ -1463,7 +1463,7 @@ h6.modal-subtitle{
     height:22px;
     border:none;
     text-indent:100%;
-    background:url(assets/images/move-top.png) no-repeat 0px 0px
+    background:url(../images/move-top.png) no-repeat 0px 0px
 }
 @media (max-width: 1440px){
     .banner-info{
@@ -1472,7 +1472,7 @@ h6.modal-subtitle{
         padding:2em
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1484,7 +1484,7 @@ h6.modal-subtitle{
         font-size:3.1em
     }
     .banner.two{
-        background:url(assets/images/banner-two.jpg) no-repeat center top;
+        background:url(../images/banner-two.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1503,7 +1503,7 @@ h6.modal-subtitle{
         padding:2em
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1559,7 +1559,7 @@ h6.modal-subtitle{
         padding:1em
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1640,7 +1640,7 @@ h6.modal-subtitle{
         padding-bottom:2em
     }
     .banner.two{
-        background:url(assets/images/banner-two.jpg) no-repeat center top;
+        background:url(../images/banner-two.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1676,7 +1676,7 @@ h6.modal-subtitle{
 }
 @media (max-width: 768px){
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1897,7 +1897,7 @@ h6.modal-subtitle{
         margin-top:1.2em
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1906,7 +1906,7 @@ h6.modal-subtitle{
         min-height:342px
     }
     .banner.two{
-        background:url(assets/images/banner-two.jpg) no-repeat center top;
+        background:url(../images/banner-two.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -1982,7 +1982,7 @@ h6.modal-subtitle{
         display:block;
         width:35px;
         height:35px;
-        background:url(assets/images/nav.png) no-repeat 0px 0px;
+        background:url(../images/nav.png) no-repeat 0px 0px;
         display:block;
         position:absolute;
         right:47px;
@@ -2007,7 +2007,7 @@ h6.modal-subtitle{
         margin:0.1em 0
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -2064,7 +2064,7 @@ h6.modal-subtitle{
         padding:2em 0 4em 0
     }
     .banner.two{
-        background:url(assets/images/banner-two.jpg) no-repeat center top;
+        background:url(../images/banner-two.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;
@@ -2139,7 +2139,7 @@ h6.modal-subtitle{
         display:block;
         width:35px;
         height:35px;
-        background:url(assets/images/nav.png) no-repeat 0px 0px;
+        background:url(../images/nav.png) no-repeat 0px 0px;
         display:block;
         position:absolute;
         right:31px;
@@ -2174,7 +2174,7 @@ h6.modal-subtitle{
         padding:1.5em 0
     }
     ul.f-icons li a.facebook,.ul.f-iconsli a.p,ul.f-icons li a.twitter{
-        background:url(assets/images/icons.png) no-repeat -7px 0px
+        background:url(../images/icons.png) no-repeat -7px 0px
     }
     .banner-info{
         margin-top:6em;
@@ -2184,12 +2184,12 @@ h6.modal-subtitle{
     .callbacks_nav{
         height:40px;
         width:20px;
-        background:transparent url("assets/images/arrows.png") no-repeat left top;
+        background:transparent url("../images/arrows.png") no-repeat left top;
         margin-top:8%;
         background-size:191%
     }
     .banner{
-        background:url(assets/images/banner.jpg) no-repeat center top;
+        background:url(../images/banner.jpg) no-repeat center top;
         background-size:cover;
         -webkit-background-size:cover;
         -moz-background-size:cover;

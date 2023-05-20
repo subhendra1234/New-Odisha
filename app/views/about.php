@@ -15,9 +15,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
 </head>
-<body>
+<body class="container about-us">
 	<!--start-home-->
-	<?php include "app/views/header.php" ?>
+	<?php include 'header.php' ?>
 			<!-- script for menu -->
 			</div>
 		</div>
