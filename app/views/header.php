@@ -1,6 +1,6 @@
 
 	<!--Header-->
-	<div id="home" class="header">
+	<div class="header">
 		<div class="header-top">
 			<div class="container">
 				<div class="logo">
@@ -18,9 +18,7 @@
 				<div class="top-menu">
 				<ul class="cl-effect-16">
 						<li><a class="active" href="index.php" data-hover="HOME">Home</a></li>
-
 						<li><a href="/app/views/about.php" data-hover="About">About US</a></li>
-
 						<li><a href="/app/views/typography.php" data-hover="Aim & Objective">Aim & Objective </a></li>
 						<li><a href="/app/views/gallery.php" data-hover="Photo Gallery">Photo Gallery</a></li>
 						<li><a href="/app/views/blog.php" data-hover="Achivement">Achivement</a></li>
