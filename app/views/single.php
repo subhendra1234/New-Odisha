@@ -13,9 +13,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content="Generous Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="../../css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="../../assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
-<link href="../../css/style.css" rel='stylesheet' type='text/css' />
+<link href="../../assets/css/style.css" rel='stylesheet' type='text/css' />
 <script src="../../js/jquery.min.js"> </script>
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
@@ -36,7 +36,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3 class="tittle">Blog</h3>
 			 <div class="news-article">
 			  <div class="article-post">
-				<a href="#"><img src="../../images/single.jpg" alt="img07"/></a>
+				<a href="#"><img src="../../assets/images/single.jpg" alt="img07"/></a>
 				<div class="col-md-3 post-meta">
 					<div class="meta-icon">
 						<div class="pic">
@@ -86,7 +86,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</h4>
 						<ul class="list">
 						<li>
-			            <div class="col-md-2 preview"><a href="#"><img src="../../images/co.png" class="img-responsive" alt=""></a></div>
+			            <div class="col-md-2 preview"><a href="#"><img src="../../assets/images/co.png" class="img-responsive" alt=""></a></div>
 			            <div class="col-md-10 data">
 			                <div class="title"><a href="#">donator</a><br><span class="m_14">Aug 30, 2015</span></div>
 			                <p>Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature</p>
@@ -95,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			           <div class="clearfix"></div>
 			        </li>
 			     	  <li>
-			            <div class="col-md-2 preview"><a href="#"><img src="../../images/co.png" class="img-responsive" alt=""></a></div>
+			            <div class="col-md-2 preview"><a href="#"><img src="../../assets/images/co.png" class="img-responsive" alt=""></a></div>
 			            <div class="col-md-10 data">
 			                <div class="title"><a href="#">donator</a><br><span class="m_14">Sep 2, 2015</span></div>
 			                <p>Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature</p>
@@ -104,7 +104,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			           <div class="clearfix"></div>
 			        </li>
 			        <li>
-			            <div class="col-md-2 preview"><a href="#"><img src="../../images/co.png" class="img-responsive" alt=""></a></div>
+			            <div class="col-md-2 preview"><a href="#"><img src="../../assets/images/co.png" class="img-responsive" alt=""></a></div>
 			            <div class="col-md-10 data">
 			                <div class="title"><a href="#">donator</a><br><span class="m_14">Nov 2, 2015</span></div>
 			                <p>Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature</p>

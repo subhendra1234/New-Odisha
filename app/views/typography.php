@@ -10,9 +10,9 @@
 <meta name="keywords" content="Generous Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="../../css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="../../assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
-<link href="../../css/style.css" rel='stylesheet' type='text/css' />
+<link href="../../assets/css/style.css" rel='stylesheet' type='text/css' />
 <script src="../../js/jquery.min.js"> </script>
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
@@ -492,24 +492,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<h3>Flickr Feed</h3>
 						<div class="flickr-grids">
 							<div class="flickr-grid">
-								<a href="#"><img src="../../images/t1.jpg" alt=""/></a>
+								<a href="#"><img src="/assets/images/t1.jpg" alt=""/></a>
 							</div>
 							<div class="flickr-grid">
-								<a href="#"><img src="../../images/c2.jpg" alt=""/></a>
+								<a href="#"><img src="/assets/images/c2.jpg" alt=""/></a>
 							</div>
 							<div class="flickr-grid">
-								<a href="#"><img src="../../images/c1.jpg" alt=""/></a>
+								<a href="#"><img src="../../assets/images/c1.jpg" alt=""/></a>
 							</div>
 								<div class="clearfix"> </div>
 
 							<div class="flickr-grid">
-								<a href="#"><img src="../../images/c2.jpg" alt=""/></a>
+								<a href="#"><img src="../../assets/images/c2.jpg" alt=""/></a>
 							</div>
 							<div class="flickr-grid">
-							   <a href="#"><img src="../../images/c1.jpg" alt=""/></a>
+							   <a href="#"><img src="../../assets/images/c1.jpg" alt=""/></a>
 							</div>
 							<div class="flickr-grid">
-							   <a href="#"><img src="../../images/t1.jpg" alt=""/></a>
+							   <a href="#"><img src="../../assets/images/t1.jpg" alt=""/></a>
 							</div>
 								<div class="clearfix"> </div>
 						</div>
