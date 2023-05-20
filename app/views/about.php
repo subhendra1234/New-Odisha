@@ -188,7 +188,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</script>
 
 	<!--footer-->
-			<?php include "app/views/footer.php" ?>
+			<?php include "footer.php" ?>
 		<!--footer-->
 	</div>
 </div>

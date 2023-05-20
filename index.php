@@ -24,23 +24,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 <?php include "app/views/header.php" ?>
-			<!-- script-for-menu -->
-				<script>
-					$(document).ready(function(){
-						$("span.menu").click(function(){
-							$(".top-menu ul").slideToggle(300);
-						});
-					});
-				</script>
+	<script>
+		$(document).ready(function(){
+			$("span.menu").click(function(){
+				$(".top-menu ul").slideToggle(300);
+			});
+		});
+	</script>
 	<!--End-top-nav-script-->
-			</div>
-		</div>
 		<div class="clearfix"></div>
 			<div class="banner">
 				<div class="container">
-					<div  id="top" class="callbacks_container">
-					<ul class="rslides" id="slider4">
-					<li>
+					<div id="top" class="callbacks_container">
+						<ul class="rslides" id="slider4">
+							<li>
 								<div class="banner-info">
 									<h3>FEEL</h3>
 									<h4>TO PROTECT HUMANITY</h4>
@@ -48,7 +45,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</li>
 							<li>
 								<div class="banner-info">
-								   <h3>STAY</h3>
+									<h3>STAY</h3>
 									<h4>WE PROTECT CHILDREN</h4>
 								</div>
 							</li>
@@ -62,31 +59,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<!--- banner Slider starts Here --->
 	  			<script src="js/responsiveslides.min.js"></script>
-			 <script>
-			    // You can also use "$(window).load(function() {"
-			    $(function () {
-			      // Slideshow 4
-			      $("#slider4").responsiveSlides({
-			        auto: true,
-			        pager:false,
-			        nav: true,
-			        speed: 500,
-			        namespace: "callbacks",
-			        before: function () {
-			          $('.events').append("<li>before event fired.</li>");
-			        },
-			        after: function () {
-			          $('.events').append("<li>after event fired.</li>");
-			        }
-			      });
-			
-			    });
-			  </script>
-				</div>
-			
-			   </div>
+				<script>
+					// You can also use "$(window).load(function() {"
+					$(function () {
+					// Slideshow 4
+						$("#slider4").responsiveSlides({
+							auto: true,
+							pager:false,
+							nav: true,
+							speed: 500,
+							namespace: "callbacks",
+							before: function () {
+							$('.events').append("<li>before event fired.</li>");
+							},
+							after: function () {
+							$('.events').append("<li>after event fired.</li>");
+							}
+						});
+					});
+				</script>
 			</div>
-	</div>
+			
 	<!--start-about-->
 		<div class="about">
 			<div class="container">
