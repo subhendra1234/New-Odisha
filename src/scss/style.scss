@@ -110,33 +110,6 @@ a.donate i {
 	font-weight: 900;
 	vertical-align: top;
 }
-/* Effect 16: fall down */
-.cl-effect-16 a {
-	color: #6f8686;
-	text-shadow: 0 0 1px rgba(111,134,134,0.3);
-}
-.cl-effect-16 a::before {
-	color:#808080;
-	content: attr(data-hover);
-	position: absolute;
-	opacity: 0;
-	text-shadow: 0 0 1px rgba(255,255,255,0.3);
-	-webkit-transform: scale(1.1) translateX(10px) translateY(-10px) rotate(4deg);
-	-moz-transform: scale(1.1) translateX(10px) translateY(-10px) rotate(4deg);
-	transform: scale(1.1) translateX(10px) translateY(-10px) rotate(4deg);
-	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
-	-moz-transition: -moz-transform 0.3s, opacity 0.3s;
-	transition: transform 0.3s, opacity 0.3s;
-	pointer-events: none;
-}
-
-.cl-effect-16 a:hover::before,
-.cl-effect-16 a:focus::before {
-	-webkit-transform: scale(1) translateX(0px) translateY(0px) rotate(0deg);
-	-moz-transform: scale(1) translateX(0px) translateY(0px) rotate(0deg);
-	transform: scale(1) translateX(0px) translateY(0px) rotate(0deg);
-	opacity: 1;
-}
 nav a {
 	position: relative;
 	display: inline-block;
@@ -210,11 +183,6 @@ nav a:focus {
    }
 }
 /*--start-home--*/
-.header-top {
-    padding: 0.9em 0;
-  background: #fff;
-  position: relative;
-}
 .banner{
 background: url(assets/images/banner-two.jpg) no-repeat center top;
   background-size: cover;
@@ -1742,9 +1710,6 @@ color: #53d0c6;
 	.news,.news.two,.about,.contact,.typrography,.camps,.services {
 	  padding: 3em 0;
 	}
-	.header-top {
-      padding: 0.7em 0;
-    }
 	h3.tittle {
 	  font-size: 2.8em;
 	  margin-bottom: 0em;
@@ -2187,9 +2152,6 @@ color: #53d0c6;
 	   padding: 0.6em 1.2em;
 	  background: #af0d1d;
 	  font-size: 0.8em;
-	}
-	.header-top {
-	  padding: 0.5em 0 0.2em 0;
 	}
 	.banner-info h3 {
 	  font-size: 1.8em;
