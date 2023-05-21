@@ -1,3 +1,4 @@
 # Ignore paths that contain user-generated content.
-assets
-node_modules
+/node_modules
+/assets
+public/forum
