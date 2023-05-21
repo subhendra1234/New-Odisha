@@ -14,7 +14,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="assets/css/style.css" rel='stylesheet' type='text/css' />
-<script src="js/jquery.min.js"> </script>
+<script src="src/js/jquery.min.js"> </script>
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
 
@@ -53,12 +53,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="banner-info">
 									<h3>IT'S YOUR</h3>
 									<h4>TO PROTECT HUMANITY</h4>
-								</div>								
+								</div>
 							</li>
 						</ul>
 					</div>
 					<!--- banner Slider starts Here --->
-	  			<script src="js/responsiveslides.min.js"></script>
+	  			<script src="src/js/responsiveslides.min.js"></script>
 				<script>
 					// You can also use "$(window).load(function() {"
 					$(function () {
