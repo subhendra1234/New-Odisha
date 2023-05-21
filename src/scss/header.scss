@@ -1,3 +1,6 @@
+/* file import */
+@import 'base/variables';
+
 .header-top {
     padding: 0.9em 0;
     background: #fff;
@@ -14,4 +17,7 @@
 	.header-top {
         padding: 0.5em 0 0.2em 0;
     }
+}
+.about-us{
+    background-color: $white;
 }

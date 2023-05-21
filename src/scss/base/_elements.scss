@@ -1,0 +1,19 @@
+// Global elements styling, e.g. for headings, buttons, links, etc.
+// -----------------------------------------------------------------------------
+
+.btn {
+  color: white;
+}
+.btn-outline-dark {
+  background-color: $orange;
+}
+
+:focus {
+  outline: 2px solid $orange;
+}
+a, button, .btn, .form-control {
+  &:focus {
+    outline: 2px solid $orange;
+    box-shadow: none;
+  }
+}
