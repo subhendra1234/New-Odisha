@@ -34,6 +34,42 @@
     color: #023047;
 }
 
+.top-menu {
+    text-align: center;
+    margin: 2em 0 1em 0;
+    position: relative;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+html, body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100%;
+    background: #FFf;
+}
+
+
+.top-menu ul li {
+    display: inline-block;
+    margin: 0 19px;
+    color: #fff;
+    font-weight: 900;
+    vertical-align: top;
+}
+ul {
+    list-style-type: disc;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
 
 //Donate button
 
@@ -55,4 +91,9 @@ a.donate:hover{
 }
 a.donate i {
     margin: 0 0.89em;
+}
+
+.do-button {
+    float: right;
+    margin-top: 1.5em;
 }
