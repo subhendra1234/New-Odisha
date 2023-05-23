@@ -82,18 +82,6 @@ ul.f-icons  li a.p{
 	background: url(assets/images/icons.png) no-repeat -124px 0px;
 }
 
-.top-menu {
-	text-align: center;
-    margin: 2em 0 1em 0;
-	  position: relative;
-}
-.top-menu ul li{
-	display: inline-block;
-	margin: 0 19px;
-	color: $white;
-	font-weight: 900;
-	vertical-align: top;
-}
 nav a {
 	position: relative;
 	display: inline-block;
@@ -133,26 +121,7 @@ nav a:focus {
         top: 77px;
 	  cursor: pointer;
 	}
-	.top-menu ul{
-		display:none;
-		margin-top:0em;
-		border: 1px solid #eee;
-	}
-	.top-menu ul li {
-	  display: block;
-	  float: none;
-	  margin: 0.5em 0;
-	}
-	.top-menu ul li a {
-	  padding: 0;
-	  width: 100%;
-	  font-size: 0.93em;
-	}
-	.top-menu {
-	float: left;
-	  margin: 1em 0 0 0;
-	width: 100%;
-   }
+
 }
 /*--start-home--*/
 .banner{
@@ -1786,9 +1755,6 @@ color: #53d0c6;
 	  font-size: 1em;
 	  padding: 0.7em;
 	}
-	.top-menu ul li a {
-      font-size: 0.95em;
-    }
 	.gallery-left {
 	  padding: 0 0.1em;
 	  margin-bottom: 0.2em;
@@ -1959,11 +1925,6 @@ color: #53d0c6;
        top: 67px;
 	  cursor: pointer;
 	}
-	.top-menu {
-	  float: left;
-	  margin: 1.1em 0 0 0;
-	  width: 100%;
-	}
 	.banner-info {
 	  margin-top: 8em;
 	  background-color: rgba(83, 208, 198, 0.66);
@@ -2082,9 +2043,7 @@ color: #53d0c6;
 	.logo a h1 {
 	  font-size: 2.5em;
 	}
-	.top-menu ul li a {
-	  font-size: 0.9em;
-	}
+
 	.blog-pagenat ul li a {
 	  padding: 6px 0.8em;
 	  font-size: 0.8em;

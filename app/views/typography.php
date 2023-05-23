@@ -13,6 +13,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="../../assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="../../assets/css/style.css" rel='stylesheet' type='text/css' />
+<link href="../../assets/css/header.css" rel='stylesheet' type='text/css' />
 <script src="../../js/jquery.min.js"> </script>
 <!--webfonts-->
 <link href='http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>

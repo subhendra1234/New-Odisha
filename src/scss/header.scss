@@ -2,9 +2,20 @@
 @import 'base/variables';
 
 .header-top {
-    padding: 0.9em 0;
     background: #fff;
     position: relative;
+    .container {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        position: relative;
+        gap: 1em;
+    }
+    .non-profit {
+        text-align: center;
+        font-size: 12px;
+        padding: 2px;
+    }
 }
 
 @media (max-width:768px){
@@ -34,11 +45,6 @@
     color: #023047;
 }
 
-.top-menu {
-    text-align: center;
-    margin: 2em 0 1em 0;
-    position: relative;
-}
 
 ul {
     display: block;
@@ -70,8 +76,10 @@ li {
 }
 
 //Donate button
-
-.do-button a{
+.donation-button {
+    margin: 1rem;
+}
+.donation-button a{
     padding: 8px;
     background:#219ebc;
     font-size: 20px;
